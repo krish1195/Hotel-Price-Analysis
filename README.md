@@ -1,1 +1,4 @@
 # Hotel-Price-Analysis
+The **Hotel Price Analysis** project is designed to provide a comprehensive understanding of hotel pricing trends and patterns. It automates data collection using Selenium, fetching real-time information from hotel websites in Windsor to ensure that the analysis is accurate and up to date. Once the data is collected, the system processes it to uncover key insights, such as seasonal price variations, demand-driven pricing strategies, and location-based trends. 
+
+Additionally, the project features an interactive command-line interface powered by ChatGPT. This allows users to request detailed and AI-generated descriptions of specific hotels, offering an added layer of depth to the analysis. By combining automated data gathering, robust data processing, and intelligent descriptions, the project serves as a powerful tool for anyone looking to make informed decisions in the hotel industry, whether for business or travel purposes.
