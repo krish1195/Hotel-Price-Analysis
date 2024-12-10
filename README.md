@@ -133,4 +133,4 @@ Contributions are welcome!
 
 ---
 
-**Made with ❤️ by Krish
+Made with ❤️ by Krish
